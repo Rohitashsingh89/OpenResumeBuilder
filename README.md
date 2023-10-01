@@ -3,6 +3,10 @@
 React Resume Builder is a simple, user-friendly web application that allows users to create professional resumes with ease. It's open-source and fully customizable, providing an intuitive interface for users to build their resumes in real-time.
 
 [![React](https://img.shields.io/badge/React-16.13.1-blue)](https://reactjs.org/)
+<div align="center">
+  <img src="https://github.com/Rohitashsingh89/OpenResumeBuilder/assets/93479842/5f8af3ee-8454-41d9-8ea6-8e541945810b" width="100px" alt="Description">
+</div>
+
 
 ## Features
 
@@ -10,6 +14,7 @@ React Resume Builder is a simple, user-friendly web application that allows user
 - **Real-Time Preview:** See changes in real-time as you edit your resume.
 - **Customization:** Customize the resume layout, fonts, and colors according to your preference.
 - **Download Options:** Download your resume in PDF format for easy sharing with employers.
+
 - **Responsive Design:** Access the builder from desktops, tablets, and mobile devices.
 
 ## How to Use

@@ -4,7 +4,7 @@ React Resume Builder is a simple, user-friendly web application that allows user
 
 [![React](https://img.shields.io/badge/React-16.13.1-blue)](https://reactjs.org/)
 <div align="center">
-  <img src="https://github.com/Rohitashsingh89/OpenResumeBuilder/assets/93479842/5f8af3ee-8454-41d9-8ea6-8e541945810b" width="100px" alt="Description">
+  <img src="https://github.com/Rohitashsingh89/OpenResumeBuilder/assets/93479842/5f8af3ee-8454-41d9-8ea6-8e541945810b" width="200px" alt="Description">
 </div>
 
 

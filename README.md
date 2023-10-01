@@ -34,8 +34,8 @@ Visit `http://localhost:3000` in your browser to access the resume builder.
 
 Contributions are welcome and encouraged. Here's how you can contribute:
 
-- **Bug Reports:** Report any issues you encounter while using [Your Project Name].
-- **Feature Requests:** Share your ideas for new features or improvements.
+- **Bug Reports:** Report any issues you encounter while using Reactive Resume Builder, please [create a new issue](https://github.com/rohitashsingh89/OpenResumeBuilder/issues/new) to report them.
+- **Feature Requests:** Have ideas for new features or improvements? [Open a feature request](https://github.com/rohitashsingh89/OpenResumeBuilder/issues/new).
 - **Pull Requests:** Submit PRs for bug fixes, enhancements, or new templates.
 
 ## 🌟 Show Your Support

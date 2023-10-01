@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/rohitashsingh89/OpenResumeBuilder?style=for-the-badge)](https://github.com/rohitashsingh89/OpenResumeBuilder/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/rohitashsingh89/OpenResumeBuilder?style=for-the-badge)](https://github.com/rohitashsingh89/OpenResumeBuilder/network)
 
-Welcome to [Your Project Name], the platform where your professional journey begins with a standout resume. Crafted with precision, our Modern Resume Builder empowers you to create tailored resumes that leave a lasting impression.
+Welcome to Reactive Resume Builder, the platform where your professional journey begins with a standout resume. Crafted with precision, our Modern Resume Builder empowers you to create tailored resumes that leave a lasting impression.
 
 ## ✨ Key Features
 
@@ -19,7 +19,7 @@ Welcome to [Your Project Name], the platform where your professional journey beg
 
 ## 🚀 Getting Started
 
-Getting started with [Your Project Name] is straightforward:
+Getting started with Reactive Resume Builder is straightforward:
 
 ```bash
 git clone https://github.com/your-username/your-project.git
@@ -40,11 +40,11 @@ Contributions are welcome and encouraged. Here's how you can contribute:
 
 ## 🌟 Show Your Support
 
-If you find [Your Project Name] helpful, show your support:
+If you find Reactive Resume Builder helpful, show your support:
 
 - Star the repository to acknowledge the project's quality and value.
-- Spread the word by sharing your resume creations made with [Your Project Name].
+- Spread the word by sharing your resume creations made with Reactive Resume Builder.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
